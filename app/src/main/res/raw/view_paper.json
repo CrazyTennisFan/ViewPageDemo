@@ -1,0 +1,48 @@
+{
+  "question": {
+    "section_one_description": "1.Please enter your nickname:",
+    "section_two_description": "2.Please tell me your gender:",
+    "section_three_description": "3.Please select one date you prefer:",
+    "section_four_description": "4.Please select some food you like:",
+    "section_five_description": "5.Do you like this app?",
+    "section_two_values": [
+      {
+        "value": "Female"
+      },
+      {
+        "value": "Male"
+      },
+      {
+        "value": "It is privacy."
+      }
+    ],
+    "section_four_values": [
+      {
+        "value": "Fish"
+      },
+      {
+        "value": "Pork"
+      },
+      {
+        "value": "Burger"
+      },
+      {
+        "value": "Ice cream"
+      },
+      {
+        "value": "Pasty"
+      },
+      {
+        "value": "Hot Hot Hot"
+      }
+    ],
+    "section_five_values": [
+      {
+        "value": "Yes"
+      },
+      {
+        "value": "No"
+      }
+    ]
+  }
+}
